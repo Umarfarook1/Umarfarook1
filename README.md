@@ -1,13 +1,19 @@
+<!-- Personal profile README: publish as `README.md` in your public repo `Umarfarook1/Umarfarook1` (repository name must match your username exactly). -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Umarfarook+Gurramkonda;Software+%26+ML+Engineer;Building+production+AI%2FML+%26+LLM+systems" alt="Typing intro" />
+# Umarfarook Gurramkonda
+
+**[`@Umarfarook1`](https://github.com/Umarfarook1)** · Software & ML Engineer · Bangalore, India
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%E2%80%99m+Umarfarook+%28%40Umarfarook1%29;Software+%26+ML+Engineer;Production+AI%2FML%2C+LLMs+%26+RAG" alt="Typing intro" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=120&section=header&text=&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header wave" width="100%" />
 
-**Bangalore, India** · *B.Tech Computer Science (2024), CGPA 8.14/10*
+*B.Tech Computer Science (2024), CGPA 8.14/10*
 
 [![Email](https://img.shields.io/badge/Email-umarfarook0yt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarfarook0yt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Umarfarook1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umarfarook1)
+[![Follow](https://img.shields.io/github/followers/Umarfarook1?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Umarfarook1)
 [![Profile views](https://komarev.com/ghpvc/?username=Umarfarook1&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Umarfarook1)
 
 </div>
@@ -16,14 +22,14 @@
 
 ### About
 
-Software and **ML Engineer (AI/ML)** focused on shipping **production-ready** features: backend services, **LLM workflows**, **NLP/RAG**, and cloud deployments. I like owning work **end-to-end**—data processing, model integration, APIs, and deployment automation—with strong **Python (FastAPI)** and **GCP/AWS** fundamentals.
+I’m **Umarfarook Gurramkonda** — a Software and **ML Engineer (AI/ML)** focused on shipping **production-ready** features: backend services, **LLM workflows**, **NLP/RAG**, and cloud deployments. I like owning work **end-to-end**—data processing, model integration, APIs, and deployment automation—with strong **Python (FastAPI)** and **GCP/AWS** fundamentals.
 
 ---
 
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,docker,gcp,aws,postgres,git,github&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,docker,gcp,aws,postgres,git,github&perline=10" alt="Umarfarook Gurramkonda — skills" />
 </p>
 
 <p align="center">
@@ -120,10 +126,10 @@ Lightweight inventory: catalog, stock updates, billing, **offline-friendly** sto
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Umarfarook1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarfarook1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Umarfarook1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Umarfarook%27s%20GitHub%20stats" alt="Umarfarook Gurramkonda GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarfarook1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20languages" alt="Umarfarook Gurramkonda top languages" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Umarfarook1&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=Umarfarook1&theme=tokyonight&hide_border=true" alt="Umarfarook Gurramkonda contribution streak" />
 
 </div>
 
@@ -131,7 +137,7 @@ Lightweight inventory: catalog, stock updates, billing, **offline-friendly** sto
 
 <div align="center">
 
-**Thanks for stopping by.** Open to collaboration on ML systems, RAG, and production backends.
+**Thanks for visiting my profile.** Open to collaboration on ML systems, RAG, and production backends.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=100&section=footer&fontSize=42&animation=twinkling&fontAlignY=72" alt="footer wave" width="100%" />
 
