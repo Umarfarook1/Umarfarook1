@@ -1,172 +1,189 @@
-<!-- Personal profile README: publish as `README.md` in your public repo `Umarfarook1/Umarfarook1` (repository name must match your username exactly). -->
-
 <div align="center">
 
-# Umarfarook Gurramkonda
+<a href="https://umarfarook-ai.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F5C26B&center=true&vCenter=true&width=720&lines=Umarfarook+Gurramkonda;AI+%2F+ML+Engineer+%E2%80%94+HypeOn+AI;Production+LLMs+%C2%B7+RAG+%C2%B7+Multi-stage+orchestration;umarfarook-ai.vercel.app" alt="Umarfarook Gurramkonda — AI Engineer" />
+</a>
 
-**[`@Umarfarook1`](https://github.com/Umarfarook1)** · AI / ML Engineer · Bangalore, India
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=28&duration=3000&pause=800&color=F5C26B&center=true&vCenter=true&width=720&lines=Hi%2C+I%E2%80%99m+Umarfarook+%28%40Umarfarook1%29;AI%2FML+Engineer+%40+HypeOn+AI;Production+LLMs%2C+RAG+%26+Multi-stage+Orchestration" alt="Typing intro" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1815,50:38241a,100:f5c26b&height=120&section=header&text=&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header wave" width="100%" />
-
-*B.Tech Computer Science (2024), CGPA 8.14/10*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-umarfarook--ai.vercel.app-F5C26B?style=for-the-badge&logo=vercel&logoColor=white)](https://umarfarook-ai.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-umarfarook--gurramkonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umarfarook-gurramkonda/)
-[![Email](https://img.shields.io/badge/Email-umarfarook0yt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarfarook0yt@gmail.com)
-[![Follow](https://img.shields.io/github/followers/Umarfarook1?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Umarfarook1)
-[![Profile views](https://komarev.com/ghpvc/?username=Umarfarook1&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Umarfarook1)
+[![Portfolio](https://img.shields.io/badge/portfolio-umarfarook--ai.vercel.app-F5C26B?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1815)](https://umarfarook-ai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-umarfarook--gurramkonda-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1815)](https://www.linkedin.com/in/umarfarook-gurramkonda/)
+[![Email](https://img.shields.io/badge/email-umarfarook0yt%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1815)](mailto:umarfarook0yt@gmail.com)
+[![Location](https://img.shields.io/badge/based%20in-Bangalore%2C%20India-9CA3AF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1a1815)](https://maps.app.goo.gl/)
 
 </div>
 
----
+<br/>
 
-### About
+```yaml
+role:        AI / ML Engineer @ HypeOn AI
+focus:       Production LLM systems for D2C trend prediction
+working_on:  BigQuery NL2SQL MCP Server  -  open-source eval infra
+philosophy:  Tradeoffs over tools  -  evals before scale  -  ship narrow, then expand
+```
 
-I'm an **AI / ML Engineer** at **HypeOn AI**, building production LLM systems for D2C trend prediction. I focus on the messy middle of applied AI: multi-stage orchestration, retrieval that actually retrieves the right thing, NL-to-SQL with cost guardrails, and the observability that keeps it running. Strong **Python (FastAPI)**, hands-on with **LangChain**, embedding models, and end-to-end ownership across **GCP** and **AWS**.
+<br/>
 
-Portfolio: **[umarfarook-ai.vercel.app](https://umarfarook-ai.vercel.app)**
+## About
 
----
+I build the messy middle of applied AI — multi-stage orchestration, retrieval that
+actually retrieves the right thing, NL-to-SQL with cost guardrails, and the
+observability that keeps it running in production.
 
-### Stack
+Strong **Python (FastAPI)**, end-to-end ownership across **GCP** and **AWS**, and
+a bias toward systems that survive contact with real users.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,ts,docker,gcp,aws,postgres,redis,git,github&perline=11" alt="Umarfarook Gurramkonda — skills" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=readthedocs&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-1B72E8?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-</p>
-
----
-
-### Experience
-
-| Role | Organization | Period |
-|------|--------------|--------|
-| **AI / ML Engineer** | HypeOn AI | Oct 2025 – Present |
-| **Freelance ML / AI Engineer** | Independent | Oct 2024 – Sep 2025 |
-| **Backend Developer Intern** | Synclovis Systems | Jun – Sep 2024 |
-
-<details>
-<summary><b>HypeOn AI — AI / ML Engineer</b> · highlights</summary>
-
-- **Multi-stage LLM orchestration** service (routing, intent, retrieval, analysis, composition) with **SSE streaming** and structured JSON outputs
-- **Natural-language-to-SQL** over a BigQuery data warehouse with schema discovery, synonym matching, and cost safety caps; Claude Haiku primary, Gemini fallback
-- **RAG pipelines** using LangChain and BERT-family embeddings (sentence-transformers, all-MiniLM-L6-v2); tuned chunking & metadata filtering for retrieval precision
-- Integrated **Claude (Sonnet, Haiku), Gemini, and OpenAI** with fallback routing, prompt versioning, Pydantic validation, and guardrails
-- Deployed on **GCP Cloud Run** with Cloud SQL, Redis, Alembic, Prometheus, and GitHub Actions CI/CD
-
-</details>
-
-<details>
-<summary><b>Freelance ML / AI Engineer</b> · highlights</summary>
-
-- AI-powered inventory system for a retail client: **LLM-based invoice extraction**, real-time stock alerts, reorder recommendations
-- Stock-level forecasting and demand prediction using Pandas, NumPy, scikit-learn
-- Visualization dashboard surfacing business insights to non-technical operators
-
-</details>
-
-<details>
-<summary><b>Synclovis Systems — Backend Intern</b> · highlights</summary>
-
-- REST backend services in **Node.js / Express / MySQL** for an event-management web app
-- Contributed to an internal **LLM-based healthcare assistant**: integrated RAG retrieval (LangChain + FAISS) over clinical documents and added guardrails to reduce hallucinations
-
-</details>
-
----
-
-### Education
-
-**B.Tech — Computer Science (2024)**
-K.S.R.M College of Engineering, JNTU Anantapur · **CGPA: 8.14 / 10**
-
----
-
-### Selected projects
+## Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td><b>Languages</b></td>
+<td>
 
-**Conversational Research Agent**
-`Python` · `FastAPI` · `LangChain`
-
-Multi-stage routing (chitchat / factual / research) with **streaming responses**, session-based memory, idempotent retries, Pydantic-validated outputs, prompt-injection guardrails, and Prometheus metrics.
-
-</td>
-<td width="50%" valign="top">
-
-**AI-Powered Inventory Platform**
-`Python` · `Pandas` · `Scikit-learn` · `OpenAI`
-
-Automated invoice generation via LLM extraction, real-time stock alerts, demand forecasting with scikit-learn, and a data-visualization dashboard for business insight.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td><b>LLM &amp; AI</b></td>
+<td>
 
-**Drug Recommendation System**
-`Python` · `NLP` · `Scikit-learn`
-
-Sentiment analysis on user reviews + condition matching for medicine ranking. **TF-IDF** features, baseline ML classifiers, explainable ranking on polarity, review count, and condition relevance.
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1B72E8?style=flat&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
 
-**Clinical Chat Assistant**
-`LangChain` · `FAISS` · `OpenAI`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-RAG over **500+** clinical PDFs with chunking, metadata filtering, and guardrails to reduce unsupported answers.
+</td>
+</tr>
+<tr>
+<td><b>Data &amp; ML</b></td>
+<td>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Cloud &amp; Ops</b></td>
+<td>
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### Certifications
+## Currently building
 
-- **Oracle Cloud Infrastructure 2025 Data Science Professional** (1Z0-1110-25) · Sep 2025
-- **Oracle Cloud Infrastructure 2025 AI Foundations Associate** (1Z0-1122-25) · Sep 2025
-- **Microsoft Certified: Azure AI Fundamentals** · Nov 2022
-- **AWS Academy: Cloud Foundations** · Jun 2023
-- **HackerRank Python** · May 2024
+> **BigQuery NL2SQL MCP Server** &nbsp;·&nbsp; first project in a 5-project credibility series
+>
+> Open-source MCP server that lets agents query BigQuery in natural language with
+> schema-aware grounding, cost guardrails, and a built-in eval harness so the
+> behavior is measurable, not vibes-based.
+>
+> Roadmap: eval leaderboard → voice interview coach → research assistant → prod-LLM starter.
 
----
+<br/>
 
-### GitHub activity
+## Selected work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Umarfarook1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Umarfarook%27s%20GitHub%20stats" alt="Umarfarook Gurramkonda GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarfarook1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20languages" alt="Umarfarook Gurramkonda top languages" />
+#### Conversational Research Agent
+`Python` · `FastAPI` · `LangChain`
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Umarfarook1&theme=tokyonight&hide_border=true" alt="Umarfarook Gurramkonda contribution streak" />
+Multi-stage routing (chitchat / factual / research) with **SSE streaming**, session memory, idempotent retries, Pydantic-validated outputs, prompt-injection guardrails, and Prometheus metrics.
 
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+#### NL-to-SQL over BigQuery
+`Python` · `BigQuery` · `Claude` · `Gemini`
 
-<div align="center">
+Schema discovery, synonym matching, cost safety caps. Claude Haiku primary with Gemini fallback. Built for non-technical operators to query the warehouse without writing SQL.
 
-**Thanks for visiting.** Open to collaboration on production LLM systems, RAG, evals, and applied AI infrastructure.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[**umarfarook-ai.vercel.app**](https://umarfarook-ai.vercel.app) · [LinkedIn](https://www.linkedin.com/in/umarfarook-gurramkonda/) · [Email](mailto:umarfarook0yt@gmail.com)
+#### AI-Powered Inventory Platform
+`Python` · `Pandas` · `Scikit-learn` · `OpenAI`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c26b,50:38241a,100:1a1815&height=100&section=footer&fontSize=42&animation=twinkling&fontAlignY=72" alt="footer wave" width="100%" />
+LLM-based invoice extraction, real-time stock alerts, demand forecasting, and a visualization dashboard for business insight. Shipped for a retail client during freelance work.
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+#### Clinical Chat Assistant
+`LangChain` · `FAISS` · `OpenAI`
+
+RAG over **500+** clinical PDFs with chunking, metadata filtering, and guardrails to reduce unsupported answers. Internal tool at Synclovis Systems.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Experience
+
+```
+2025.10 - now      AI / ML Engineer            HypeOn AI (D2C trend prediction)
+2024.10 - 2025.09  Freelance ML / AI Engineer  Independent
+2024.06 - 2024.09  Backend Developer Intern    Synclovis Systems
+2020 - 2024        B.Tech, Computer Science    K.S.R.M College / JNTU Anantapur  ·  CGPA 8.14
+```
+
+<br/>
+
+## How I think
+
+| | |
+|---|---|
+| **Tradeoffs over tools** | Pick by constraint, not hype. Postgres + pgvector beats a managed vector DB until it doesn't. |
+| **Evals before scale** | If you cannot measure it, you cannot improve it. A bad eval beats no eval. |
+| **Data quality over model swapping** | A new model rarely fixes bad inputs. Retrieval and prompt structure compound. |
+| **Infrastructure is the product** | Latency, cost, reliability are features users feel. The model is one component. |
+| **Ship narrow, then expand** | One user, one workflow, working end-to-end. Tiny systems that ship beat grand systems that demo. |
+
+<br/>
+
+## Reach out
+
+Open to collaboration on production LLM systems, RAG pipelines, evals, and applied AI infrastructure.
+
+[**umarfarook-ai.vercel.app**](https://umarfarook-ai.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/umarfarook-gurramkonda/) &nbsp;·&nbsp; [umarfarook0yt@gmail.com](mailto:umarfarook0yt@gmail.com)
+
+<sub>built quietly · shipping noisily</sub>
