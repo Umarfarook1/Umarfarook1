@@ -159,12 +159,12 @@ RAG over **500+** clinical PDFs with chunking, metadata filtering, and guardrail
 
 ## Experience
 
-```
-2025.10 - now      AI / ML Engineer            HypeOn AI (D2C trend prediction)
-2024.10 - 2025.09  Freelance ML / AI Engineer  Independent
-2024.06 - 2024.09  Backend Developer Intern    Synclovis Systems
-2020 - 2024        B.Tech, Computer Science    K.S.R.M College / JNTU Anantapur  ·  CGPA 8.14
-```
+| When | Role | Where |
+|---|---|---|
+| `2025.10 → now` | **AI / ML Engineer** | HypeOn AI &nbsp;·&nbsp; D2C trend prediction |
+| `2024.10 → 2025.09` | **Freelance ML / AI Engineer** | Independent |
+| `2024.06 → 2024.09` | **Backend Developer Intern** | Synclovis Systems |
+| `2020 → 2024` | **B.Tech, Computer Science** | K.S.R.M College / JNTU Anantapur &nbsp;·&nbsp; CGPA 8.14 |
 
 <br/>
 
