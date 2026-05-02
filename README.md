@@ -4,14 +4,16 @@
 
 # Umarfarook Gurramkonda
 
-**[`@Umarfarook1`](https://github.com/Umarfarook1)** · Software & ML Engineer · Bangalore, India
+**[`@Umarfarook1`](https://github.com/Umarfarook1)** · AI / ML Engineer · Bangalore, India
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%E2%80%99m+Umarfarook+%28%40Umarfarook1%29;Software+%26+ML+Engineer;Production+AI%2FML%2C+LLMs+%26+RAG" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=28&duration=3000&pause=800&color=F5C26B&center=true&vCenter=true&width=720&lines=Hi%2C+I%E2%80%99m+Umarfarook+%28%40Umarfarook1%29;AI%2FML+Engineer+%40+HypeOn+AI;Production+LLMs%2C+RAG+%26+Multi-stage+Orchestration" alt="Typing intro" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=120&section=header&text=&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1815,50:38241a,100:f5c26b&height=120&section=header&text=&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header wave" width="100%" />
 
 *B.Tech Computer Science (2024), CGPA 8.14/10*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-umarfarook--ai.vercel.app-F5C26B?style=for-the-badge&logo=vercel&logoColor=white)](https://umarfarook-ai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-umarfarook--gurramkonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umarfarook-gurramkonda/)
 [![Email](https://img.shields.io/badge/Email-umarfarook0yt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarfarook0yt@gmail.com)
 [![Follow](https://img.shields.io/github/followers/Umarfarook1?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Umarfarook1)
 [![Profile views](https://komarev.com/ghpvc/?username=Umarfarook1&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Umarfarook1)
@@ -22,23 +24,27 @@
 
 ### About
 
-I’m **Umarfarook Gurramkonda** — a Software and **ML Engineer (AI/ML)** focused on shipping **production-ready** features: backend services, **LLM workflows**, **NLP/RAG**, and cloud deployments. I like owning work **end-to-end**—data processing, model integration, APIs, and deployment automation—with strong **Python (FastAPI)** and **GCP/AWS** fundamentals.
+I'm an **AI / ML Engineer** at **HypeOn AI**, building production LLM systems for D2C trend prediction. I focus on the messy middle of applied AI: multi-stage orchestration, retrieval that actually retrieves the right thing, NL-to-SQL with cost guardrails, and the observability that keeps it running. Strong **Python (FastAPI)**, hands-on with **LangChain**, embedding models, and end-to-end ownership across **GCP** and **AWS**.
+
+Portfolio: **[umarfarook-ai.vercel.app](https://umarfarook-ai.vercel.app)**
 
 ---
 
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,docker,gcp,aws,postgres,git,github&perline=10" alt="Umarfarook Gurramkonda — skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,ts,docker,gcp,aws,postgres,redis,git,github&perline=11" alt="Umarfarook Gurramkonda — skills" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=readthedocs&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-1B72E8?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
@@ -48,25 +54,35 @@ I’m **Umarfarook Gurramkonda** — a Software and **ML Engineer (AI/ML)** focu
 
 | Role | Organization | Period |
 |------|--------------|--------|
-| **ML Engineer** | HypeOn AI | Oct 2024 – Present |
-| **Freelance Developer** | Inventory Management App (Tablet) | Oct 2024 – Sep 2025 |
-| **Software Engineering Intern** | Synclovis Systems | Jun – Sep 2024 |
+| **AI / ML Engineer** | HypeOn AI | Oct 2025 – Present |
+| **Freelance ML / AI Engineer** | Independent | Oct 2024 – Sep 2025 |
+| **Backend Developer Intern** | Synclovis Systems | Jun – Sep 2024 |
 
 <details>
-<summary><b>HypeOn AI — ML Engineer</b> · highlights</summary>
+<summary><b>HypeOn AI — AI / ML Engineer</b> · highlights</summary>
 
-- E‑commerce **Intelligence + Analytics**: competitor scraping, structured enrichment, and insight generation for product / keyword / ad dashboards  
-- **Forecasting** models for trend & demand; **scheduled inference** pipelines to keep insights fresh  
-- **Social & media signal** analysis: sentiment pipelines and aggregated metrics for momentum & competitive views  
-- **E‑commerce Copilot**: fine-tuned **LLM + RAG**, structured research reports, **API-first** integration  
+- **Multi-stage LLM orchestration** service (routing, intent, retrieval, analysis, composition) with **SSE streaming** and structured JSON outputs
+- **Natural-language-to-SQL** over a BigQuery data warehouse with schema discovery, synonym matching, and cost safety caps; Claude Haiku primary, Gemini fallback
+- **RAG pipelines** using LangChain and BERT-family embeddings (sentence-transformers, all-MiniLM-L6-v2); tuned chunking & metadata filtering for retrieval precision
+- Integrated **Claude (Sonnet, Haiku), Gemini, and OpenAI** with fallback routing, prompt versioning, Pydantic validation, and guardrails
+- Deployed on **GCP Cloud Run** with Cloud SQL, Redis, Alembic, Prometheus, and GitHub Actions CI/CD
 
 </details>
 
 <details>
-<summary><b>Synclovis Systems — Intern</b> · highlights</summary>
+<summary><b>Freelance ML / AI Engineer</b> · highlights</summary>
 
-- **FastAPI/Flask** services for an **LLM-based healthcare assistant** indexing **500+** clinical documents  
-- **RAG** with **LangChain + FAISS**, chunking & metadata filtering, deployed on **AWS**  
+- AI-powered inventory system for a retail client: **LLM-based invoice extraction**, real-time stock alerts, reorder recommendations
+- Stock-level forecasting and demand prediction using Pandas, NumPy, scikit-learn
+- Visualization dashboard surfacing business insights to non-technical operators
+
+</details>
+
+<details>
+<summary><b>Synclovis Systems — Backend Intern</b> · highlights</summary>
+
+- REST backend services in **Node.js / Express / MySQL** for an event-management web app
+- Contributed to an internal **LLM-based healthcare assistant**: integrated RAG retrieval (LangChain + FAISS) over clinical documents and added guardrails to reduce hallucinations
 
 </details>
 
@@ -74,7 +90,7 @@ I’m **Umarfarook Gurramkonda** — a Software and **ML Engineer (AI/ML)** focu
 
 ### Education
 
-**B.Tech — Computer Science (2024)**  
+**B.Tech — Computer Science (2024)**
 K.S.R.M College of Engineering, JNTU Anantapur · **CGPA: 8.14 / 10**
 
 ---
@@ -85,40 +101,50 @@ K.S.R.M College of Engineering, JNTU Anantapur · **CGPA: 8.14 / 10**
 <tr>
 <td width="50%" valign="top">
 
-**E‑commerce Research Copilot (backend)**  
-`Python` · `FastAPI` · `LLMs`
+**Conversational Research Agent**
+`Python` · `FastAPI` · `LangChain`
 
-Multi-stage **LLM orchestration** (routing, rewrite, optional research, analysis, composition), session memory, idempotent requests, structured JSON + validation for UI, prompt versioning & templates.
+Multi-stage routing (chitchat / factual / research) with **streaming responses**, session-based memory, idempotent retries, Pydantic-validated outputs, prompt-injection guardrails, and Prometheus metrics.
 
 </td>
 <td width="50%" valign="top">
 
-**Drug recommendation (prototype)**  
-`Python` · `NLP` · `Scikit-learn`
+**AI-Powered Inventory Platform**
+`Python` · `Pandas` · `Scikit-learn` · `OpenAI`
 
-Sentiment-aware suggestions: preprocessing, **TF‑IDF**, baseline classifiers, explainable ranking (polarity, review count, condition relevance).
+Automated invoice generation via LLM extraction, real-time stock alerts, demand forecasting with scikit-learn, and a data-visualization dashboard for business insight.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Clinical chat assistant**  
-`LangChain` · `OpenAI` · `FAISS`
+**Drug Recommendation System**
+`Python` · `NLP` · `Scikit-learn`
 
-RAG over **500+** PDFs, chunking & metadata filtering, fallbacks & guardrails to reduce unsupported answers.
+Sentiment analysis on user reviews + condition matching for medicine ranking. **TF-IDF** features, baseline ML classifiers, explainable ranking on polarity, review count, and condition relevance.
 
 </td>
 <td width="50%" valign="top">
 
-**Inventory app (tablet)**  
-`Freelance`
+**Clinical Chat Assistant**
+`LangChain` · `FAISS` · `OpenAI`
 
-Lightweight inventory: catalog, stock updates, billing, **offline-friendly** storage.
+RAG over **500+** clinical PDFs with chunking, metadata filtering, and guardrails to reduce unsupported answers.
 
 </td>
 </tr>
 </table>
+
+---
+
+### Certifications
+
+- **Oracle Cloud Infrastructure 2025 Data Science Professional** (1Z0-1110-25) · Sep 2025
+- **Oracle Cloud Infrastructure 2025 AI Foundations Associate** (1Z0-1122-25) · Sep 2025
+- **Microsoft Certified: Azure AI Fundamentals** · Nov 2022
+- **AWS Academy: Cloud Foundations** · Jun 2023
+- **HackerRank Python** · May 2024
 
 ---
 
@@ -137,8 +163,10 @@ Lightweight inventory: catalog, stock updates, billing, **offline-friendly** sto
 
 <div align="center">
 
-**Thanks for visiting my profile.** Open to collaboration on ML systems, RAG, and production backends.
+**Thanks for visiting.** Open to collaboration on production LLM systems, RAG, evals, and applied AI infrastructure.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=100&section=footer&fontSize=42&animation=twinkling&fontAlignY=72" alt="footer wave" width="100%" />
+[**umarfarook-ai.vercel.app**](https://umarfarook-ai.vercel.app) · [LinkedIn](https://www.linkedin.com/in/umarfarook-gurramkonda/) · [Email](mailto:umarfarook0yt@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c26b,50:38241a,100:1a1815&height=100&section=footer&fontSize=42&animation=twinkling&fontAlignY=72" alt="footer wave" width="100%" />
 
 </div>
