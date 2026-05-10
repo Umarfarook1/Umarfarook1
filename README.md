@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1815,50:8B6A2B,100:F5C26B&height=200&section=header&text=Umarfarook%20Gurramkonda&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20building%20toward%20top-1%25&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1815,50:8B6A2B,100:F5C26B&height=200&section=header&text=Umarfarook%20Gurramkonda&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Production%20LLM%20engineer%20%C2%B7%20rebuilding%20the%20stack%20from%20scratch&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://umarfarook-ai.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=F5C26B&center=true&vCenter=true&width=820&lines=AI+%2F+ML+Engineer+%40+HypeOn+AI;Production+LLMs+%C2%B7+RAG+%C2%B7+Multi-stage+orchestration;Now+building%3A+GPT-2+from+scratch+%2B+Triton+kernels;Tradeoffs+over+tools+%C2%B7+evals+before+scale;umarfarook-ai.vercel.app" alt="Umarfarook Gurramkonda — AI / ML Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=F5C26B&center=true&vCenter=true&width=820&lines=AI+%2F+ML+Engineer+%40+HypeOn+AI;Production+LLMs+%C2%B7+RAG+%C2%B7+Multi-stage+orchestration;Now+building%3A+GPT-2+from+scratch+%2B+Triton+kernels;Tradeoffs+over+tools+%C2%B7+evals+before+scale;umarfarook-ai.vercel.app" alt="Umarfarook Gurramkonda · AI / ML Engineer" />
 </a>
 
 <br/>
@@ -31,14 +31,14 @@ philosophy:  Tradeoffs over tools  -  evals before scale  -  ship narrow, then e
 
 ## About
 
-I build the messy middle of applied AI — multi-stage orchestration, retrieval that
+I build the messy middle of applied AI: multi-stage orchestration, retrieval that
 actually retrieves the right thing, NL-to-SQL with cost guardrails, and the
 observability that keeps it running in production.
 
 Strong **Python (FastAPI)**, end-to-end ownership across **GCP** and **AWS**, and
 a bias toward systems that survive contact with real users. Currently working
-through a from-scratch ML stack — transformer, fused GPU kernels, diffusion,
-post-training — to close the gap from "builds with LLMs" to "builds the LLMs."
+through a from-scratch ML stack (transformer, fused GPU kernels, diffusion,
+post-training) to close the gap from "builds with LLMs" to "builds the LLMs."
 
 <br/>
 
@@ -147,8 +147,8 @@ receipts in dollars and H100 hours, not vibes.
 #### [Triton-attention-kernels](https://github.com/Umarfarook1/Triton-attention-kernels)
 `Triton` · `CUDA` · `FlashAttention-style`
 
-Hand-written fused kernels for the transformer hot path —
-attention, RMSNorm, SwiGLU, RoPE — benchmarked against `torch.SDPA`.
+Hand-written fused kernels for the transformer hot path
+(attention, RMSNorm, SwiGLU, RoPE), benchmarked against `torch.SDPA`.
 
 ![Tier](https://img.shields.io/badge/tier-Advanced-D7263D?style=flat-square)
 ![Status](https://img.shields.io/badge/status-WIP-F5A623?style=flat-square)
