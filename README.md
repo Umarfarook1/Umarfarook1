@@ -63,7 +63,6 @@ post-training) to close the gap from "builds with LLMs" to "builds the LLMs."
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-1B72E8?style=flat&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
@@ -200,9 +199,9 @@ Multi-stage routing (chitchat / factual / research) with **SSE streaming**, sess
 <td width="50%" valign="top">
 
 #### NL-to-SQL over BigQuery
-`Python` · `BigQuery` · `Claude` · `Gemini`
+`Python` · `BigQuery` · `LLMs`
 
-Schema discovery, synonym matching, cost safety caps. Claude Haiku primary with Gemini fallback. Built for non-technical operators to query the warehouse without writing SQL.
+Schema discovery, synonym matching, cost safety caps. Multi-provider routing with primary plus fallback. Built for non-technical operators to query the warehouse without writing SQL.
 
 </td>
 </tr>
