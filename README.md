@@ -27,7 +27,7 @@ I care about **evals before scale**: if you can't measure an agent's behavior, y
 **Agent infrastructure and evals**
 
 - [**mcp-bigquery-evals**](https://github.com/Umarfarook1/mcp-bigquery-evals) — MCP server that lets agents explore BigQuery safely: 7 read-only tools, mandatory dry-run cost caps, structured error codes agents can self-correct on, and a Spider/BIRD-style NL-to-SQL eval harness. Published on [PyPI](https://pypi.org/project/mcp-bigquery-evals/).
-- [**trustbench**](https://github.com/Umarfarook1/trustbench) — production-readiness harness for AI customer-support agents: versioned golden sets, calibrated LLM-judge trust metrics (Cohen's kappa vs human labels), and McNemar-tested per-intent regression detection. 74 offline tests, zero API calls needed.
+- [**trustbench**](https://github.com/Umarfarook1/trustbench) — production-readiness harness for AI customer-support agents: versioned golden sets, calibrated LLM-judge trust metrics (Cohen's kappa vs human labels), and McNemar-tested per-intent regression detection. 82 offline tests (green CI), zero API calls needed.
 - [**rag-document-qa**](https://github.com/Umarfarook1/rag-document-qa) — retrieval-augmented document Q&A with citation-grounded answers and a retriever eval harness (Recall@K, MRR, nDCG); vector store and embedder are pluggable via Protocol.
 
 **Applied agent product**
