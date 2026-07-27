@@ -32,7 +32,7 @@ I care about **evals before scale**: if you can't measure an agent's behavior, y
 
 **Applied agent product**
 
-- [**Cargo-Concierge**](https://github.com/Umarfarook1/Cargo-Concierge) — agentic freight-forwarder copilot: free-form quote request in, ranked airline options and a draft response out. Hand-labeled extraction eval (80% strict accuracy) and prompt ablations. Next.js + Mastra + Postgres. [Live demo](https://cargo-concierge.vercel.app).
+- [**Cargo-Concierge**](https://github.com/Umarfarook1/Cargo-Concierge) — agentic freight-forwarder copilot: free-form quote request in, ranked airline options and a draft response out. Hand-labelled ablation: 14/15 exact-match extraction, and 33 of those points come from the instruction block alone. Next.js + Mastra + Postgres. [Live demo](https://cargo-concierge.vercel.app).
 
 **Applied ML and analysis**
 
@@ -44,7 +44,8 @@ I care about **evals before scale**: if you can't measure an agent's behavior, y
 
 - [**Nano-LLM-from-scratch**](https://github.com/Umarfarook1/Nano-LLM-from-scratch) — GPT-2 124M reproduction in PyTorch with RoPE, RMSNorm, SwiGLU, KV-cache.
 - [**Triton-attention-kernels**](https://github.com/Umarfarook1/Triton-attention-kernels) — fused Triton kernels for the transformer hot path, to be benchmarked against `torch.SDPA`.
-- [**DPO-on-my-LLM**](https://github.com/Umarfarook1/DPO-on-my-LLM) / [**Tiny-diffusion**](https://github.com/Umarfarook1/Tiny-diffusion) — post-training and diffusion, designed and documented; code landing incrementally.
+- [**Tiny-diffusion**](https://github.com/Umarfarook1/Tiny-diffusion) — DDPM with classifier-free guidance and a DDIM sampler, written from scratch, with 111 offline tests. The MNIST CPU smoke run is reported with the numbers it actually produced, including a deliberately unflattering smoke FID and a plain statement that the samples are not digits yet.
+- [**DPO-on-my-LLM**](https://github.com/Umarfarook1/DPO-on-my-LLM) — SFT to DPO post-training with a position-swap LLM judge; designed and documented, code landing incrementally.
 
 ## Production work (closed source)
 
