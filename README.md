@@ -27,18 +27,18 @@ I care about **evals before scale**: if you can't measure an agent's behavior, y
 **Agent infrastructure and evals**
 
 - [**mcp-bigquery-evals**](https://github.com/Umarfarook1/mcp-bigquery-evals) — MCP server that lets agents explore BigQuery safely: 7 read-only tools, mandatory dry-run cost caps, structured error codes agents can self-correct on, and a Spider/BIRD-style NL-to-SQL eval harness. Published on [PyPI](https://pypi.org/project/mcp-bigquery-evals/).
-- [**trustbench**](https://github.com/Umarfarook1/trustbench) — production-readiness harness for AI customer-support agents: versioned golden sets, calibrated LLM-judge trust metrics (Cohen's kappa vs human labels), and McNemar-tested per-intent regression detection. 82 offline tests (green CI), zero API calls needed.
-- [**rag-document-qa**](https://github.com/Umarfarook1/rag-document-qa) — retrieval-augmented document Q&A with citation-grounded answers and a retriever eval harness (Recall@K, MRR, nDCG); vector store and embedder are pluggable via Protocol.
+- [**trustbench**](https://github.com/Umarfarook1/trustbench) — production-readiness harness for AI customer-support agents: versioned golden sets, eight trust metrics (five LLM-judged, three deterministic), and McNemar-tested per-intent regression detection. The Cohen's kappa function for judge-versus-human calibration is written and tested, but no hand-labelled set exists to run it against yet. 82 offline tests (green CI), zero API calls needed.
+- [**rag-document-qa**](https://github.com/Umarfarook1/rag-document-qa) *(in development)* — retrieval-augmented document Q&A with citation-grounded answers; vector store, embedder and reranker are pluggable via Protocol. The retriever eval harness computes Recall@K, MRR and nDCG@10 and has not been run against a benchmark yet. 126 tests pass offline with no model download, no network and no API key.
 
 **Applied agent product**
 
-- [**Cargo-Concierge**](https://github.com/Umarfarook1/Cargo-Concierge) — agentic freight-forwarder copilot: free-form quote request in, ranked airline options and a draft response out. Hand-labelled ablation: 14/15 exact-match extraction, and 33 of those points come from the instruction block alone. Next.js + Mastra + Postgres. [Live demo](https://cargo-concierge.vercel.app).
+- [**Cargo-Concierge**](https://github.com/Umarfarook1/Cargo-Concierge) — agentic freight-forwarder copilot: free-form quote request in, ranked airline options and a draft response out. Hand-labelled ablation: 14/15 exact-match on the six graded fields over 15 cases, and removing the rules block from the prompt costs 33 points. Next.js + Mastra + Postgres. [Live demo](https://cargo-concierge.vercel.app).
 
 **Applied ML and analysis**
 
-- [**street-view-plate-blurring**](https://github.com/Umarfarook1/street-view-plate-blurring) — YOLOv8n license-plate detector (mAP@0.5 0.78) with a recall-first Gaussian-blur redaction pipeline and an OCR before/after audit.
+- [**street-view-plate-blurring**](https://github.com/Umarfarook1/street-view-plate-blurring) — YOLOv8n license-plate detector (mAP@0.5 0.782, recall 0.739 on a 1,073-image val split) driving a recall-first Gaussian-blur redaction pipeline.
 - [**youtube-shorts-performance-prediction**](https://github.com/Umarfarook1/youtube-shorts-performance-prediction) — a rigorous negative result: no pre-publish feature predicts Shorts engagement above chance, and the one "95% accurate" model is a leakage trap (permutation test p = 0.955).
-- [**ipl-data-analysis**](https://github.com/Umarfarook1/ipl-data-analysis) — 1,095 IPL matches with leakage-free chronological features and honest match-outcome modeling that names the data ceiling (~AUC 0.55).
+- [**ipl-data-analysis**](https://github.com/Umarfarook1/ipl-data-analysis) — 1,095 IPL matches with chronologically computed venue-history features and match-outcome models that top out at ROC-AUC 0.547, which does not separate from a coin flip on a 273-match test split.
 
 **ML from first principles** *(work in progress — building the stack a layer down from the APIs)*
 
