@@ -40,11 +40,11 @@ I care about **evals before scale**: if you can't measure an agent's behavior, y
 - [**youtube-shorts-performance-prediction**](https://github.com/Umarfarook1/youtube-shorts-performance-prediction) — a rigorous negative result: no pre-publish feature predicts Shorts engagement above chance, and the one "95% accurate" model is a leakage trap (permutation test p = 0.955).
 - [**ipl-data-analysis**](https://github.com/Umarfarook1/ipl-data-analysis) — 1,095 IPL matches with chronologically computed venue-history features and match-outcome models that top out at ROC-AUC 0.547, which does not separate from a coin flip on a 273-match test split.
 
-**ML from first principles** *(work in progress — building the stack a layer down from the APIs)*
+**ML from first principles** *(building the stack a layer down from the APIs)*
 
-- [**Nano-LLM-from-scratch**](https://github.com/Umarfarook1/Nano-LLM-from-scratch) — GPT-2 124M reproduction in PyTorch with RoPE, RMSNorm, SwiGLU, KV-cache.
-- [**Triton-attention-kernels**](https://github.com/Umarfarook1/Triton-attention-kernels) — fused Triton kernels for the transformer hot path, to be benchmarked against `torch.SDPA`.
+- [**Nano-LLM-from-scratch**](https://github.com/Umarfarook1/Nano-LLM-from-scratch) — GPT-2 rebuilt in PyTorch with RoPE, RMSNorm, SwiGLU and a KV-cache, plus a byte-level BPE written from scratch. 257 offline tests. A 2,500-step CPU run is reported with the artifacts behind every number; the 124M config ships untrained and says so.
 - [**Tiny-diffusion**](https://github.com/Umarfarook1/Tiny-diffusion) — DDPM with classifier-free guidance and a DDIM sampler, written from scratch, with 111 offline tests. The MNIST CPU smoke run is reported with the numbers it actually produced, including a deliberately unflattering smoke FID and a plain statement that the samples are not digits yet.
+- [**Triton-attention-kernels**](https://github.com/Umarfarook1/Triton-attention-kernels) — fused Triton kernels for the transformer hot path. Design and benchmark plan; no kernel code yet.
 - [**DPO-on-my-LLM**](https://github.com/Umarfarook1/DPO-on-my-LLM) — SFT to DPO post-training with a position-swap LLM judge. Designed and written up; no code yet.
 
 ## Production work (closed source)
