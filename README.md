@@ -45,7 +45,7 @@ I care about **evals before scale**: if you can't measure an agent's behavior, y
 - [**Nano-LLM-from-scratch**](https://github.com/Umarfarook1/Nano-LLM-from-scratch) — GPT-2 124M reproduction in PyTorch with RoPE, RMSNorm, SwiGLU, KV-cache.
 - [**Triton-attention-kernels**](https://github.com/Umarfarook1/Triton-attention-kernels) — fused Triton kernels for the transformer hot path, to be benchmarked against `torch.SDPA`.
 - [**Tiny-diffusion**](https://github.com/Umarfarook1/Tiny-diffusion) — DDPM with classifier-free guidance and a DDIM sampler, written from scratch, with 111 offline tests. The MNIST CPU smoke run is reported with the numbers it actually produced, including a deliberately unflattering smoke FID and a plain statement that the samples are not digits yet.
-- [**DPO-on-my-LLM**](https://github.com/Umarfarook1/DPO-on-my-LLM) — SFT to DPO post-training with a position-swap LLM judge; designed and documented, code landing incrementally.
+- [**DPO-on-my-LLM**](https://github.com/Umarfarook1/DPO-on-my-LLM) — SFT to DPO post-training with a position-swap LLM judge. Designed and written up; no code yet.
 
 ## Production work (closed source)
 
